@@ -2,39 +2,44 @@
 
 ¡Hola! Mi nombre es H. Alejandro Arzayus García, tengo 33 años. Soy un absoluto apasionado de los idiomas y me gusta compartir mis conocimientos de forma didáctica y divertida. Tengo estudios universitarios y de postgrado en turismo, lenguas extranjeras y didáctica de las lenguas. Hablo inglés, francés e italiano y tengo más de 3 años de experiencia tabajando como docente de diferentes perfiles: niños, adolescentes y adultos, todo esto con muy buenos resultados. Lo que se traduce en programas de inmersión lingüistica, campamentos de verano, educación pública, clases particulares, academias y preparación para certificaciones en distintos niveles.
 
-FOTO
+![alt text](choped.png)
 
 ## Programa de aprendizaje de idiomas on-line  
 
 
-foto 1
-Aprende inglés, francés o italiano sin salir de casa
-Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu idioma favorito a la hora que mejor se adapte a tus actividades diarias, ¡sin salir de casa y con flexibilidad de horarios!
-Foto 2
-¡Practica divirtiendote!
+![alt text](choped.png)  
+
+### Aprende inglés, francés o italiano sin salir de casa  
+
+Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu idioma favorito a la hora que mejor se adapte a tus actividades diarias, ¡sin salir de casa y con flexibilidad de horarios!  
+
+![alt text](choped.png)  
+
+### ¡Practica divirtiendote!  
+
 Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de solo gramatica. Con estos cursos a la carta trabajaremos las 4 competencias de forma divertida, a través de juegos, documentos reales y adaptados a tus necesidades y a tu estilo propio de aprendizaje.
 Foto 3
 
 ## Servicios:  
 
-- Clases particulares de refuerzo*
-- Preparación de pruebas certificactivas*
-- Clases de conversación*
-- Traducciones para empresas de todo tipo de documentos: Tecnicos, divulgativos, informativos, literarios.
+- Clases particulares de refuerzo*  
+- Preparación de pruebas certificactivas*  
+- Clases de conversación*  
+- Traducciones para empresas de todo tipo de documentos: Tecnicos, divulgativos, informativos, literarios.  
 
-*Todas las formulas pueden ser  presenciales o por skype. (ponerlo por guiones)
+*Todas las formulas pueden ser  presenciales o por skype. (ponerlo por guiones)  
 
 
 
 ## Competencias y logros:  
 
-- Enfoque comunicativo
-- Desarrollo de programaciones y unidades didácticas
-- Manejo de recursos tecnologicos para la docencia : Edmodo, google classroom, Vocaroo, Pixton, Menti, Podomatic, Etwinning, kahoot, etc.
-- Preparación de actividades extraescolares de inmersión lingüística y campamentos de verano.
-- Preparación de talleres de escritura creativa para niños
+- Enfoque comunicativo  
+- Desarrollo de programaciones y unidades didácticas  
+- Manejo de recursos tecnologicos para la docencia : Edmodo, google classroom, Vocaroo, Pixton, Menti, Podomatic, Etwinning, kahoot, etc.  
+- Preparación de actividades extraescolares de inmersión lingüística y campamentos de verano.  
+- Preparación de talleres de escritura creativa para niños  
 
-Literatura:
+Literatura:  
 
 Mis libros: - La catarsis de un bufón sin nombre (foto)
                   - Poemas para Warta y el súbito despertar del tiempo (foto)
