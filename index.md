@@ -43,6 +43,8 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 - Preparación de actividades extraescolares de inmersión lingüística y campamentos de verano.  
 - Preparación de talleres de escritura creativa para niños  
 
+## Mis publicaciones:
+
 Literatura:  
 
 Mis libros: - La catarsis de un bufón sin nombre (foto)
@@ -63,7 +65,5 @@ Publicaciones academicas:
 
 
 
-Contacto:
-
-¿poner certificados ? ¿Foto en la biografia ?
+CONTACTO???
 
