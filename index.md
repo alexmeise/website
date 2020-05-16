@@ -20,7 +20,9 @@ Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu
 ### ¡Practica divirtiendote!  
 
 Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de solo gramatica. Con estos cursos a la carta trabajaremos las 4 competencias de forma divertida, a través de juegos, documentos reales y adaptados a tus necesidades y a tu estilo propio de aprendizaje.
-Foto 3
+
+![alt text](índice.jpeg)
+
 
 ## Servicios:  
 
