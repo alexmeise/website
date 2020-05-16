@@ -9,7 +9,7 @@
 ## Programa de aprendizaje de idiomas on-line  
 
 
-![alt text](chica.jpg)  
+![alt text](índicea.jpeg)  
 
 ### Aprende inglés, francés o italiano sin salir de casa  
 
