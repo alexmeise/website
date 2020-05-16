@@ -1,6 +1,6 @@
 # Presentación ¿Quién soy?  
 
-![alt text](choped.png)
+![alt text](portada1.jpg)
 
 ¡Hola! Mi nombre es H. Alejandro Arzayus García, tengo 33 años. Soy un absoluto *apasionado* de los idiomas y me gusta compartir mis conocimientos de forma didáctica y divertida. Tengo estudios universitarios y de postgrado en turismo, lenguas extranjeras y didáctica de las lenguas. Hablo inglés, francés e italiano y tengo más de 3 años de experiencia tabajando como docente de diferentes perfiles: niños, adolescentes y adultos, todo esto con muy buenos resultados. Lo que se traduce en programas de inmersión lingüistica, campamentos de verano, educación pública, clases particulares, academias y preparación para certificaciones en distintos niveles.
 
@@ -15,7 +15,7 @@
 
 Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu idioma favorito a la hora que mejor se adapte a tus actividades diarias, ¡sin salir de casa y con flexibilidad de horarios!  
 
-![alt text](choped.png)  
+![alt text](indice3.jpeg)  
 
 ### ¡Practica divirtiendote!  
 
