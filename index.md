@@ -15,7 +15,7 @@
 
 Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu idioma favorito a la hora que mejor se adapte a tus actividades diarias, ¡sin salir de casa y con flexibilidad de horarios!  
 
-![alt text](indice3.jpeg)  
+![alt text](estudiar-ingles-internet.jpg)  
 
 ### ¡Practica divirtiendote!  
 
