@@ -9,19 +9,19 @@
 ## Programa de aprendizaje de idiomas on-line  
 
 
-![alt text](índicea.jpeg)  
+![alt text](F1.jpg)  
 
 ### Aprende inglés, francés o italiano sin salir de casa  
 
 Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu idioma favorito a la hora que mejor se adapte a tus actividades diarias, ¡sin salir de casa y con flexibilidad de horarios!  
 
-![alt text](estudiar-ingles-internet.jpg)  
+![alt text](F2.jpg)  
 
 ### ¡Practica divirtiéndote!  
 
 Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de solo gramatica. Con estos cursos a la carta trabajaremos las 4 competencias de forma divertida, a través de juegos, documentos reales y adaptados a tus necesidades y a tu estilo propio de aprendizaje.
 
-![alt text](índice.jpeg)
+![alt text](F3.jpg)
 
 
 ## Servicios:  
@@ -33,7 +33,7 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 
 *Todas las formulas pueden ser  presenciales o por skype. (ponerlo por guiones)  
 
-
+![alt text](F4.jpg)
 
 ## Competencias y logros:  
 
