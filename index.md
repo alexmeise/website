@@ -19,7 +19,7 @@ Mediante los cursos virtuales tendrás la oportunidad de aprender y practicar tu
 
 ### ¡Practica divirtiéndote!  
 
-Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de solo gramatica. Con estos cursos a la carta trabajaremos las 4 competencias de forma divertida, a través de juegos, documentos reales y adaptados a tus necesidades y a tu estilo propio de aprendizaje.
+Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de solo gramatica. Con estos cursos a la carta trabajaremos las 4 competencias de forma divertida, a través de juegos, documentos reales y adaptados a tus necesidades. y a tu estilo propio de aprendizaje.
 
 ![alt text](F3.jpg)
 
@@ -41,7 +41,7 @@ Mi enfoque es totalmente comunicativo. Olvídate de las soporíferas clases de s
 - Desarrollo de programaciones y unidades didácticas  
 - Manejo de recursos tecnológicos para la docencia : Edmodo, google classroom, Vocaroo, Pixton, Menti, Podomatic, Etwinning, kahoot, etc.  
 - Preparación de actividades extraescolares de inmersión lingüística y campamentos de verano.  
-- Preparación de talleres de escritura creativa para niños  
+- Preparación de talleres de escritura creativa para niños.  
 
 ## Mis publicaciones:
 
