@@ -1,4 +1,4 @@
-# Presentación ¿Quién soy?  
+# ¿Quién soy?  
 
 ![alt text](portada2.jpg)
 
